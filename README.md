@@ -3,7 +3,7 @@ Todo-app with Drag and Drop, Dark and Light mode
 
 # Frontend Mentor - Todo app
 
-[![Design preview for the Todo app coding challenge][https://github.com/Nate-epp/Todo-app/issues/1#issue-1670882367](https://jazzy-marshmallow-59fc25.netlify.app)
+[![https://github.com/Nate-epp/Todo-app/issues/1#issue-1670882367][https://github.com/Nate-epp/Todo-app/issues/1#issue-1670882367](https://jazzy-marshmallow-59fc25.netlify.app)
 
 ## Welcome! 👋
 
